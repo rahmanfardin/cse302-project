@@ -8,4 +8,4 @@ USERNAME  : NORMAL
 PASSWORD  : NORMAL
 
 
-For Admin Access email at mohammadfardinrahman@gmail.com or 2021-2-60-008@std.ewubd.edu
+For Admin Access email at mfardinr@gmail.com or 2021-2-60-008@std.ewubd.edu
